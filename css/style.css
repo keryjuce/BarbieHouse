@@ -55,6 +55,7 @@ p{
 }
 
 .logo1_img{
+    height: 100hv;
     width: 428px;
     position: absolute;
     top: 0%;
